@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiBandTextSender</string>
+
+    <string name="channel_name">MiBandTextSenderChannel</string>
+    <string name="channel_description">Channel of MiBandTextSender</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id ligula augue.
+        Nam id ligula augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+        Suspendisse potenti. In eget velit gravida, mollis mi ac, euismod magna.</string>
+</resources>
